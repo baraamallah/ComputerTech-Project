@@ -37,7 +37,6 @@ export function TryItSection() {
                 <h3 className="text-xl font-semibold text-center mb-4 text-foreground">GameSmart PC - 3D Preview</h3>
                 <p className="text-muted-foreground text-center mb-6">
                   Explore a model of the GameSmart PC. Use your mouse to rotate and zoom.
-                  (Note: This is a placeholder model. Ensure `laptop.glb` is in `public/models/`)
                 </p>
                 <LaptopModelViewer />
               </div>
